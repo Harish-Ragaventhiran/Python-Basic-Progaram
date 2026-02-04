@@ -1,0 +1,7 @@
+n = int(input())
+
+area = (n * n)
+peri = (4 * n)
+
+print("Area of the square is: " + str(area))
+print("Perimeter of the square is: " + str(peri))      
