@@ -1,0 +1,8 @@
+word = input()
+length = len(word)
+first = word[0]
+second = word[length - 1]
+
+print(first)
+print(second)
+
