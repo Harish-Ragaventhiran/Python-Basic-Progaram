@@ -1,0 +1,6 @@
+string = input()
+num = input()
+num = int(num)
+
+result = string[num:]
+print(result)
