@@ -1,0 +1,5 @@
+num = input()
+num = int(num)
+
+multi = ((num * 4) / 2)
+print(multi)
