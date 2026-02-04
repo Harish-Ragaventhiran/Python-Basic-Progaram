@@ -1,0 +1,8 @@
+word = input()
+length = len(word)
+divide = length / 2
+divide = int(divide)
+result = word[:divide]
+
+
+print(result)
