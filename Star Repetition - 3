@@ -1,0 +1,6 @@
+word = input()
+length = len(word)
+number_of_char = length - 2
+result = word[0] + "*" * number_of_char +word[length - 1] 
+
+print(result)
