@@ -1,0 +1,9 @@
+word = input()
+num = input()
+num = int(num)
+
+word_len = len(word)
+start = word_len - num
+
+result = word[start:]
+print(result)
