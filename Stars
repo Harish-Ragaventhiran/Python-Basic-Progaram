@@ -1,0 +1,4 @@
+word  = input()
+b = ("* " *3) + word  + (" *" *3)
+
+print(b)
