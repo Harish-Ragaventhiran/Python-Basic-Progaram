@@ -1,0 +1,5 @@
+word = input()
+length = len(word)
+length_last = length - 2
+
+print(length_last)
