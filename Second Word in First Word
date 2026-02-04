@@ -1,0 +1,5 @@
+w_1 = input()
+w_2 = input()
+
+length = len(w_2) - 1
+print(length )
