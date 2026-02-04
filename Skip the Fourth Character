@@ -1,0 +1,6 @@
+word = input()
+first = word[:3]
+second = word[4:]
+
+comp = first + second
+print(comp)
