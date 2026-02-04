@@ -1,0 +1,5 @@
+kilo = input()
+kilo = float(kilo)
+mul = (kilo * 1000)
+result = int(mul)
+print(result)
