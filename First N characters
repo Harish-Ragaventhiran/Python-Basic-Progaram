@@ -1,0 +1,9 @@
+word = input()
+no_char = input()
+no_char = int(no_char)
+
+length = len(word)
+end = no_char
+result = word[:no_char]
+
+print(result)
