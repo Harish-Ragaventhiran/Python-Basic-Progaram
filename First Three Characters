@@ -1,0 +1,5 @@
+word = input()
+
+frst_three = word[0:3]
+
+print(frst_three)
