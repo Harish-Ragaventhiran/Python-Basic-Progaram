@@ -1,0 +1,7 @@
+word = input()
+n = input()
+n = int(n)
+
+string = word + (" " + word) * (n - 1)
+
+print(string)
