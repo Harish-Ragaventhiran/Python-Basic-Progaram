@@ -1,0 +1,8 @@
+word1 = input()
+word2 = input()
+len1 = word2
+len2 = word1
+
+print(len1)
+print("###")
+print(len2)
